@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function Profile() {
+export default function CreateListing() {
   return (
     <div>
-      Profile
-      ami
+      
     </div>
   )
 }
